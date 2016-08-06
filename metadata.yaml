@@ -1,0 +1,28 @@
+_repo: The-Girl-s-Cabinet-of-Instructive-and-Moral-Stories_10915
+_version: 0.0.1
+alternative_title: Girls' Cabinet
+creator:
+  author:
+    agent_name: Hawks, Francis L. (Francis Lister)
+    aliases:
+    - Hawks, Francis Lister
+    - Philip, Uncle
+    birthdate: 1798
+    deathdate: 1866
+    gutenberg_agent_id: '3748'
+    url: http://www.gutenberg.org/2009/agents/3748
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- GITenberg
+title: The Girl's Cabinet of Instructive and Moral Stories
+url: http://www.gutenberg.org/ebooks/10915
